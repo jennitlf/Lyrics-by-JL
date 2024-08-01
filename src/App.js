@@ -1,23 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { useMediaQuery } from 'react-responsive';
+import DesktopHeader from './components/DesktopHeader';
+import MobileHeader from './components/MobileHeader';
+import './App.css'; // Estilos gerais
+import Home from './components/Home';
 
 function App() {
+  const isDesktop = useMediaQuery({ query: '(min-width: 769px)' });
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {isDesktop ? <DesktopHeader /> : <MobileHeader />}
+      <Home/>
     </div>
   );
 }

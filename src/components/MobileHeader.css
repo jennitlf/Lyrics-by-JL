@@ -1,0 +1,41 @@
+.App-header-mobile-menu {
+  background-color: rgb(240, 151, 198);
+  margin: 0.9% 1%;
+  height: 8%;
+  width: 98%;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  align-items: center;
+  position:fixed;
+  z-index: 1;
+}
+
+.menu{
+  margin-left: 1%;
+  height: 90%;
+  width: 15%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.menu button{
+  height: 100%;
+  width: 100%;
+  background-color: rgb(240, 151, 198) ;
+  border:none;
+}
+.menu i{
+  font-size: 200%;
+  color: rgb(83, 80, 80);
+}
+
+.social-media{
+  margin-right: 1%;
+  height: 90%;
+  width: 25%;
+}
+.social-media i{
+  color: blueviolet;
+  font-size: 200%;
+}

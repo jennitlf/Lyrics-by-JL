@@ -1,0 +1,46 @@
+/* Estilos específicos para o cabeçalho em telas grandes */
+.App-header {
+    background-color: rgb(240, 151, 198);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2%;
+    height: 65px;
+  }
+  
+  .logo {
+    background-image: url('../img/image4.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 60px;
+    color: #c926c4;
+    border-radius: 100%;
+  }
+  
+  .App-header ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+    list-style: none;
+  }
+  
+  .nav li {
+    color: rgb(78, 77, 77);
+    font-size: 1rem;
+  }
+  
+  .social-media {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 60px;
+  }
+  
+  .social-media i {
+    font-size: 1.5rem;
+    color: #c926c4;
+  }
