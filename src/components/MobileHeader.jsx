@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import './MobileHeader.css'; // Importar o CSS específico para o MobileHeader
 import MenuOptions from './MenuOptions';
 

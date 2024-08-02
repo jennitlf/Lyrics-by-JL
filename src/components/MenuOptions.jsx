@@ -1,5 +1,6 @@
 import React, {useEffect, useRef, useState} from "react";
-import "./MenuOptions.css"
+import "./MenuOptions.css";
+import {Link} from 'react-router-dom';
 
 const MenuOptions = ({menuActive, setMenuActive}) => {
 
@@ -29,6 +30,16 @@ const MenuOptions = ({menuActive, setMenuActive}) => {
         setTimeout(() => setActiveItem(null), 200); // Remove a classe após um curto período
     };
 
+    function removeAccents(texto) {
+        return texto
+          .normalize("NFD")
+          .replace(/[\u0300-\u036f]/g, "")
+          .replace(/[ç]/g, "c")
+          .replace(/[Ç]/g, "C")
+          .replace(/\s/g, "") // Esta linha remove os espaços em branco
+          .toLocaleLowerCase();
+      }
+
 
     return (
         <nav ref={menuRef} className={`options ${menuActive ? 'active' : ''}`}>
@@ -38,13 +49,9 @@ const MenuOptions = ({menuActive, setMenuActive}) => {
             </div>
             <ul className="options-list">
                 {['Home', 'Composições', 'Sobre mim'].map((item, index) => (
-                    <li
-                        key={index}
-                        className={activeItem === index ? 'clicked' : ''}
-                        onClick={() => handleItemClick(index)}
-                    >
-                        {item}
-                    </li>
+                    <Link to={`/${removeAccents(item)}`} className="item" >
+                    <li key={index} className={activeItem === index ? 'clicked' : ''} onClick={() => handleItemClick(index)}> {item} </li>
+                    </Link>
                 ))}
             </ul>
         </nav>
