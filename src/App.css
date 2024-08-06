@@ -1,11 +1,11 @@
-/* Estilos gerais do aplicativo */
+
 .App {
+  padding: 0;
+  margin: 0;
   position: relative;
   display: flex;
   flex-direction: column;
-  height: 100%;
-  width: 100%;
 }
 a {
-  text-decoration: none; /* Remove o sublinhado padrão */
+  text-decoration: none; 
 }

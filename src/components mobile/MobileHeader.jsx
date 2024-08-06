@@ -18,7 +18,7 @@ const MobileHeader = () => {
 
   return (
     <>
-      <header className="App-header-mobile-menu">
+      <header className="App-header-mobile-menu header">
         <div className="menu">
           <button className="menu-button" type="button" onClick={onClick} > <i className="fa-solid fa-bars"></i> </button>
         </div>

@@ -1,14 +1,15 @@
 .App-header-mobile-menu {
-  background-color: rgb(240, 151, 198);
-  margin: 0.9% 1%;
+  background-color: #f097c6;
+  /* margin: 0.9% 1%; */
   height: 8%;
-  width: 98%;
+  width: 100%;
   display: flex;
   flex-direction: row;
   justify-content:space-between;
   align-items: center;
   position:fixed;
   z-index: 1;
+
 }
 
 .menu{
@@ -25,6 +26,7 @@
   background-color: rgb(240, 151, 198) ;
   border:none;
 }
+
 .menu i{
   font-size: 200%;
   color: rgb(83, 80, 80);
@@ -36,6 +38,6 @@
   width: 25%;
 }
 .social-media i{
-  color: blueviolet;
+  color: rgb(83, 80, 80);
   font-size: 200%;
 }

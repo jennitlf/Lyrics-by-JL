@@ -1,0 +1,201 @@
+.content-home{
+  margin: 14% 0% 0% 0%;
+  padding: 0;
+  width: 100vw;
+  overflow: hidden;
+}
+h3{  
+  font-size: 200%;  
+}
+p{
+  margin: 0;
+  font-size: 140%;
+}
+.section{
+  font-family: "Ephesis", cursive;
+  color: #535050;
+  height: 100vh;
+  width: 100vw;
+  scroll-snap-align: start;
+  display: flex;
+  flex-direction: column;
+ 
+    
+}
+section:nth-child(1){
+  background-image: url("../img/backhomewelcome7.jpg");
+  background-attachment: fixed;
+  background-repeat:round;
+  background-position:cover;
+  font-size: 110%;
+  height: 94vh;
+  width: 70vw;
+  padding: 0 15% 0 15%;
+  align-items:start;
+}
+section:nth-child(2){
+  background-color: #fff;
+  margin: 0;
+  height: 80vh;
+  width: 80vw;
+  padding: 20% 10% 20% 10%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;    
+}
+section:nth-child(3){
+  background-image: url("../img/homeback2.jpg");
+  background-attachment: fixed;
+  background-repeat:round;
+  background-position:cover;
+  height: 80vh;
+  width: 80vw;
+  padding: 20% 10% 20% 10%;
+  justify-content: center;
+  align-items: center;  
+  
+}
+section:nth-child(4){
+  height: 80vh;
+  width: 80vw;
+  padding: 20% 10% 20% 10%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+    
+}
+section:nth-child(5){
+  background-image: url("../img/homeback3.jpg");
+  background-attachment: fixed;
+  background-repeat:round;
+  background-position:cover;
+  height: 80vh;
+  width: 80vw;
+  padding: 20% 10% 20% 10%;
+  justify-content: center;
+  align-items: center;  
+}
+section:nth-child(6){
+  height: 80vh;
+  width: 80vw;
+  padding: 20% 10% 20% 10%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+section:nth-child(7){
+  background-image: url("../img/homeback5.jpg");
+  background-attachment: fixed;
+  background-repeat:round;
+  background-position:cover;
+  height: 80vh;
+  width: 80vw;
+  padding: 20% 10% 20% 10%;
+  justify-content: center;
+  align-items: center;  
+  
+}
+section:nth-child(8){
+  height: 80vh;
+  width: 80vw;
+  padding: 20% 10% 20% 10%;
+  justify-content: center;
+  align-items: center;
+  text-align: center; 
+}
+section:nth-child(9){
+  background-image: url("../img/homeback6.jpg");
+  background-attachment: fixed;
+  background-repeat:round;
+  background-position:cover;
+  height: 80vh;
+  width: 80vw;
+  padding: 20% 10% 20% 10%;
+  justify-content: center;
+  align-items: center; 
+}
+section:nth-child(10){
+  height: 80vh;
+  width: 80vw;
+  padding: 20% 10% 20% 10%;
+  justify-content: center;
+  align-items: center;  
+  text-align: center;
+  
+}
+
+/* ==========================================1 sessão=============================================== */
+
+.container-welcome p {
+    font-family: "Bona Nova SC", serif;
+    font-optical-sizing: auto;
+    color: #f097c6;
+    text-shadow: 
+      1px 1px 0 #535050,   
+      -1px -1px 0 #535050, 
+      1px -1px 0 #535050,  
+      -1px 1px 0 #535050;  
+    font-style: normal;
+    display: flex;
+    font-weight:bold;
+    margin: 0;
+    padding: 0;
+    height: 6%;
+    
+}
+
+#welcome1{
+    margin-top: 70%;
+    font-size: 400%;
+    height: 6%;
+    align-items: center;
+}
+#welcome2{
+    align-items:center;
+    font-size: 400%;
+}
+#welcome3{
+    height: 10%;
+    width: 100%;
+    font-size: 250%;
+    line-height: 70%;
+    align-items:center;
+}
+
+
+/* =============================================2 sessão===================================================*/
+
+.home-div-first img{
+  margin: 0 0 6% 0;
+  border-radius: 4%;
+  height: auto;
+  width: 50%;
+  opacity: 85%;        
+}
+.home-div-first p{
+  text-align:center;   
+  letter-spacing: 1.5px;
+  line-height: 100%;
+}
+
+/* ==================================3 sessão======================================================= */
+
+.home-div-tuo p{
+  margin: 0;
+  letter-spacing: 1px;
+  line-height: 90%;
+  text-align: justify;
+}
+/* ==================================4 sessão======================================================= */
+
+/* ==================================5 sessão======================================================= */
+
+/* ==================================6 sessão======================================================= */
+
+/* ==================================7 sessão======================================================= */
+
+/* ==================================8 sessão======================================================= */
+
+/* ==================================9 sessão======================================================= */
+
+/* ==================================10 sessão======================================================= */
