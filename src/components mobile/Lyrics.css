@@ -1,0 +1,21 @@
+.container-lyrics{
+    min-height: 90.2vh;
+    margin-top: 14%;
+    padding: 5% 7% 0 7%;
+    background-image: url("../img/backlyrics1.jpeg");
+    background-size:contain;
+    background-position: center;
+}
+
+.container-lyrics h2{
+    color: #5D4037;
+    font-family: "Bona Nova SC", serif;
+}
+
+.container-lyrics p {
+    color: #5D4037;
+    margin-bottom: 8%;
+    line-height: 150%;
+    font-size: 95%;
+    font-family: "Bona Nova SC", serif;
+}

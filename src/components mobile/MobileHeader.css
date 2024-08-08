@@ -29,7 +29,7 @@
 
 .menu i{
   font-size: 200%;
-  color: rgb(83, 80, 80);
+  color: #5D4037;
 }
 
 .social-media{
@@ -38,6 +38,13 @@
   width: 25%;
 }
 .social-media i{
-  color: rgb(83, 80, 80);
+  color: #5D4037;
   font-size: 200%;
+}
+.email-button{
+  font-size: 102%;
+  height: 110%;
+  width: 100%;
+  background-color: inherit;
+  border: none;
 }

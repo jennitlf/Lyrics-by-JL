@@ -1,5 +1,5 @@
 .content-home{
-  margin: 14% 0% 0% 0%;
+  margin: 13.8% 0% 0% 0%;
   padding: 0;
   width: 100vw;
   overflow: hidden;
@@ -11,6 +11,9 @@ p{
   margin: 0;
   font-size: 140%;
 }
+
+
+
 .section{
   font-family: "Ephesis", cursive;
   color: #535050;
@@ -20,23 +23,22 @@ p{
   display: flex;
   flex-direction: column;
  
-    
+                                           /*../img/homeback16.jpeg*/
 }
 section:nth-child(1){
   background-image: url("../img/backhomewelcome7.jpg");
-  background-attachment: fixed;
-  background-repeat:round;
-  background-position:cover;
+  background-repeat:no-repeat;
+  background-size:110%; 
   font-size: 110%;
-  height: 94vh;
-  width: 70vw;
+  height: 85vh;
+  width: 100vw;
   padding: 0 15% 0 15%;
   align-items:start;
 }
 section:nth-child(2){
   background-color: #fff;
   margin: 0;
-  height: 80vh;
+  height: 70vh;
   width: 80vw;
   padding: 20% 10% 20% 10%;
   justify-content: center;
@@ -44,19 +46,18 @@ section:nth-child(2){
   text-align: center;    
 }
 section:nth-child(3){
-  background-image: url("../img/homeback2.jpg");
+  background-image: url("../img/homeback13.jpeg");  /*10*/
   background-attachment: fixed;
   background-repeat:round;
-  background-position:cover;
-  height: 80vh;
+  background-size:180%; 
+  height: 70vh;
   width: 80vw;
   padding: 20% 10% 20% 10%;
   justify-content: center;
-  align-items: center;  
-  
+  align-items: center;    
 }
 section:nth-child(4){
-  height: 80vh;
+  height: 60vh;
   width: 80vw;
   padding: 20% 10% 20% 10%;
   justify-content: center;
@@ -65,18 +66,18 @@ section:nth-child(4){
     
 }
 section:nth-child(5){
-  background-image: url("../img/homeback3.jpg");
+  background-image: url("../img/homeback13.jpeg");   /*14*/
   background-attachment: fixed;
   background-repeat:round;
-  background-position:cover;
-  height: 80vh;
+  background-size:180%; 
+  height: 70vh;
   width: 80vw;
   padding: 20% 10% 20% 10%;
   justify-content: center;
   align-items: center;  
 }
 section:nth-child(6){
-  height: 80vh;
+  height: 65vh;
   width: 80vw;
   padding: 20% 10% 20% 10%;
   justify-content: center;
@@ -84,19 +85,20 @@ section:nth-child(6){
   text-align: center;
 }
 section:nth-child(7){
-  background-image: url("../img/homeback5.jpg");
-  background-attachment: fixed;
+  
+  background-image: url("../img/homeback13.jpeg");   /*12*/
+  background-attachment:scroll;
   background-repeat:round;
-  background-position:cover;
-  height: 80vh;
+  background-size:180%; 
+  height: 70vh;
   width: 80vw;
   padding: 20% 10% 20% 10%;
   justify-content: center;
-  align-items: center;  
+  align-items: center; 
   
 }
 section:nth-child(8){
-  height: 80vh;
+  height: 600px;
   width: 80vw;
   padding: 20% 10% 20% 10%;
   justify-content: center;
@@ -104,18 +106,19 @@ section:nth-child(8){
   text-align: center; 
 }
 section:nth-child(9){
-  background-image: url("../img/homeback6.jpg");
+   background-image: url("../img/homeback13.jpeg");         /*11 */
+  background-color: aquamarine;
   background-attachment: fixed;
   background-repeat:round;
-  background-position:cover;
-  height: 80vh;
+  background-size:180%; 
+  height: 70vh;
   width: 80vw;
   padding: 20% 10% 20% 10%;
   justify-content: center;
   align-items: center; 
 }
 section:nth-child(10){
-  height: 80vh;
+  height: 600px;
   width: 80vw;
   padding: 20% 10% 20% 10%;
   justify-content: center;
@@ -145,7 +148,7 @@ section:nth-child(10){
 }
 
 #welcome1{
-    margin-top: 70%;
+    margin-top: 55%;
     font-size: 400%;
     height: 6%;
     align-items: center;
@@ -168,7 +171,7 @@ section:nth-child(10){
 .home-div-first img{
   margin: 0 0 6% 0;
   border-radius: 4%;
-  height: auto;
+  height: 35%;
   width: 50%;
   opacity: 85%;        
 }
@@ -191,7 +194,12 @@ section:nth-child(10){
 /* ==================================5 sessão======================================================= */
 
 /* ==================================6 sessão======================================================= */
-
+.home-div-three p{
+  margin-bottom: 2%;
+  font-size: 160%;
+  text-align: left;
+  line-height: 95%;
+}
 /* ==================================7 sessão======================================================= */
 
 /* ==================================8 sessão======================================================= */

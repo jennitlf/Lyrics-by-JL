@@ -9,19 +9,19 @@ const Home = () => {
     const handleScroll = () => {
       const parallaxElements = document.querySelectorAll('.parallax');
       parallaxElements.forEach(parallax => {
-        if (parallax) { // Verifica se o elemento existe
+        if (parallax) { 
           const scrollPosition = window.pageYOffset;
-          parallax.style.backgroundPositionY = -(scrollPosition * 0.5) + 'px'; // Ajuste a velocidade do efeito
+          parallax.style.backgroundPositionY = -(scrollPosition * 0.3) + 'px'; // Ajuste a velocidade do efeito
         }
       });
     };
 
     window.addEventListener('scroll', handleScroll);
 
-    // Chama handleScroll para definir o valor inicial
+    
     handleScroll();
 
-    // Limpeza do event listener
+    
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
@@ -47,7 +47,7 @@ const Home = () => {
 
             <section className="home-div-tuo section">
                 <h3>Quando tudo começou...</h3>
-                <p> Eu costumava escrever em um caderninho aos 10 anos, mas com o passar do tempo, fui focando em outros assuntos, então em algum momento perdi
+                <p>Eu costumava escrever em um caderninho aos 10 anos, mas com o passar do tempo, fui focando em outros assuntos, então em algum momento perdi
                     os rascunhos.</p>
                 <p>Com 16 voltei a sentir vontade de criar as histórias que serviam como base para as letras e, modéstia parte, sinto que com o passar dos anos
                     as letras ficam bem mais profundas, talvez porque com a idade chegando, consiguemos compreênder a vida melhor.</p>   
@@ -57,27 +57,32 @@ const Home = () => {
             <section className="parallax"></section>
 
             <section className="home-div-three section parallax">
-                <h3>Composições em destaque</h3>
-                <p>
-                Pequenos Trechos: Exiba trechos ou frases marcantes das suas composições. Pode ser um breve excerto de letras ou uma descrição da ideia central de cada composição. 
-                Isso dá uma amostra do que os visitantes podem esperar.
-                </p>
+                <h3>Não vivo mais sem você</h3>
+                <p>"Suaves e macias são as suas mãos, estenda-as e toque em meu coração.</p>
+                <p>Se o sol não nascer, não tenho medo,<br/>
+                    pois estarei com você.<br/>
+                    E o calor de nossos corpos, em nossa intimidade,
+                    logo se transformam em uma só verdade.</p>
+                <p>Se não te procuro não sinto a calma, 
+                    e o ar logo me falta e, de novo, 
+                    não vivo mais sem você."</p>
             </section>
 
             <section className="parallax"></section>
 
             <section className="home-div-four section parallax">
-                <h3>ambiente de criação</h3>
-                <p>utilização do google keep e lugares váriados, onibus, uber, restaurantes</p>
+                <h3>Ambiente de criação</h3>
+                <p>Pra ser sincera, qualquer lugar é um lugar para escrever o que se sente. Na praça, em casa, no ônibus...</p>
+                <p>Para criar os rascunhos utilizo um app de notas, ou mesmo um caderno, mas o mais importante é sempre ter como anotar, pois
+                  do nada pode vir uma ideia.</p>
             </section>
 
             <section className="parallax"></section>
 
             <section className="home-div-five section">
                 <h3>Inspirações</h3>
-                <p>não me recordo de todas pessoas, letras, musicas, que serviram de inspiração, são várias. Mas posso dizer que melodias ja me trouxeram sensações 
-                    que levaram a criar uma história
-                </p>
+                <p> Eu costumo escrever letras românticas, e o que não falta no mundo são amores não correspondidos, isso serve como base. Porém, uma música, um toque,
+                  um lugar, uma pessoa... Qualquer coisa pode servir de inpiração. </p>
             </section>
 
 

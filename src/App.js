@@ -5,8 +5,9 @@ import DesktopHeader from './components desktop/DesktopHeader';
 import MobileHeader from './components mobile/MobileHeader';
 import Home from './components mobile/Home';
 import Compositions from './components mobile/Compositions'
+import Lyrics from './components mobile/Lyrics.jsx';
 import AboutMe from './components mobile/AboutMe.jsx'
-import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <Routes>
           <Route path="/home" element={<Home/>} />
           <Route  path='/composicoes' element={<Compositions/>}/>
+          <Route  path='/composicoes/:index' element={<Lyrics/>}/>
           <Route path='/sobremim' element={<AboutMe/>}/>
         </Routes>
       </div>

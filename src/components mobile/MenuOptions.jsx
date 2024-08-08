@@ -1,6 +1,7 @@
 import React, {useEffect, useRef, useState} from "react";
 import "./MenuOptions.css";
 import {Link} from 'react-router-dom';
+import img from '../img/image4.jpeg'
 
 const MenuOptions = ({menuActive, setMenuActive}) => {
 
@@ -48,14 +49,16 @@ const MenuOptions = ({menuActive, setMenuActive}) => {
     return (
         <nav ref={menuRef} className={`options ${menuActive ? 'active' : ''} sidebar`}>
             <div className="profile-mobile">
-                <div className="img-profile"></div>
-                <p>Jennifer Lima</p>
+               
+                <img src={img} alt="" />
+             
+              
             </div>
-            <ul className="options-list" >
-                {['Home', 'Composições', 'Sobre mim'].map((item, index) => (
-                    <Link to={`/${removeAccents(item)}`} className="item"  >
-                    <li key={index} className={activeItem === index ? 'clicked' : ''} onClick={() => handleItemClick(index)}> {item} </li>
-                    </Link>
+            <ul className="options-list">
+                {['Home', 'Composições'].map((item, index) => (
+                    <li key={index} className={activeItem === index ? 'clicked' : ''} onClick={() => handleItemClick(index)}>
+                        <Link to={`/${removeAccents(item)}`} className="link1">{item}</Link>
+                    </li>
                 ))}
             </ul>
         </nav>

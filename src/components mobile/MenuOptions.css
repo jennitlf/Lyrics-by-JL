@@ -9,7 +9,7 @@
 .profile-mobile{
     margin: 0;
     padding: 0;
-    height: 20%;
+    height: 21%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -18,17 +18,14 @@
     margin-top: 4%;
 }
 
-.img-profile {
-    background-image: url(../img/image4.jpeg);
-    background-size: cover;
-    height: 46%;
-    width: 30%;
+.profile-mobile img{
+    height: auto;
+    width:40%;
     border-radius: 100%;
-    margin-top: 2%;
 }
 
 .profile-mobile p{
-    color: rgb(83, 80, 80) ;
+    color: #5D4037 ;
     margin-top: 1%;
     margin-bottom: 0;
     font-size: 120%;
@@ -37,42 +34,43 @@
 }
 
 .options-list{
-    margin-top: 3%;
-    margin-left: 2%;
-    margin-right: 2%;
+    width: 89%;
+    height: 40%;
+    margin: 10% 0 0 10% ;
     padding: 0;
     list-style-type: none;
     display: flex;
     flex-direction: column;
 }
 
+
 .options-list li {
-    margin-left: 0;
-    padding-left: 10%;
-    padding-bottom: 5%;
-    padding-top: 5%;
+    width: 98%;
+    height: 10%;
+    margin-bottom: 5%;
     font-family: "Bona Nova SC", serif;
     font-weight: 400;
     font-style: normal;
     font-size: 150%;
-    color: rgb(83, 80, 80);
-
-  
+    color: #5D4037;
+    display: flex;
+    align-items: center;
+    position: relative;
 }
-
-
-.options-list li {
-    margin-left: 0;
-    padding-left: 10%;
-    padding-bottom: 5%;
-    padding-top: 5%;
-    font-family: "Bona Nova SC", serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 150%;
-    color: rgb(83, 80, 80);
-    cursor: pointer; /* Muda o cursor para indicar que é clicável */
-    transition: background-color 0.3s ease, color 0.3s ease; /* Transição suave para mudanças de cor */
+.link1{
+    padding: 0;
+    /* display: flex; 
+    align-items:flex-start;
+    justify-content:flex-start;  */
+    width: 100%;
+    height: 100%;
+    color: #5D4037;
+    text-decoration: none;
+    position: relative;
+    /* top: 0; 
+    left: 0; */
+    outline: none;
+    box-shadow: none;
 }
 
 .options-list li:hover {
@@ -89,4 +87,5 @@
     color: rgb(0, 0, 0); /* Cor do texto ao clicar */
     transition: background-color 0.2s ease; /* Transição suave */
 }
+
 
