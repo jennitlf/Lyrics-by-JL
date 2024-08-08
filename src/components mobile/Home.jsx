@@ -36,7 +36,7 @@ const Home = () => {
 
             <section className="home-div-first section">
                   <h3>Quem sou?</h3>
-                  <img src={img} className="show-me"/>
+                  <img src={img} alt="foto da autora" className="show-me"/>
                   <p>Olá, sou Jennifer, uma jovem senhora de 21 anos, cujo o hobby é externalizar sensações e sentimentos, obtidos ao decorrer da vida e do 
                       convívio com as pessoas, através de composições, textos, poemas, ou a forma que você achar melhor de nomear. Eu particurlamente, prefiro chamar 
                       de letra de música, pois sempre que leio, leio cantando rsrs..</p>

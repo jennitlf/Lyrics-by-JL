@@ -27,7 +27,7 @@ const MenuOptions = ({menuActive, setMenuActive}) => {
         document.removeEventListener('mousedown', handleClickOutside)
        
         };
-    },[])
+    },[handleClickOutside])
 
     const handleItemClick = (index) => {
         setActiveItem(index); // Define o item ativo
@@ -50,7 +50,7 @@ const MenuOptions = ({menuActive, setMenuActive}) => {
         <nav ref={menuRef} className={`options ${menuActive ? 'active' : ''} sidebar`}>
             <div className="profile-mobile">
                
-                <img src={img} alt="" />
+                <img src={img} alt="foto de jennifer" />
              
               
             </div>

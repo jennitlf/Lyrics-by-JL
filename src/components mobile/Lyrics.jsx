@@ -8,7 +8,7 @@ const Lyrics = () => {
     const [lyrics, setLyrics] = useState(null);
     const sortedData = useMemo(() => {
         return [...data].sort((a, b) => a.titulo.localeCompare(b.titulo));
-    }, [data]);
+    }, []);
 
     useEffect(() => {
         

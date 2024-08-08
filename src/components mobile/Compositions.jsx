@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import "./Compositions.css"
 import  data from "../data/listMusics.json"
 import { Link } from "react-router-dom";
