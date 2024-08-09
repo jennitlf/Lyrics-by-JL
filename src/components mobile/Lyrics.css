@@ -19,3 +19,13 @@
     font-size: 95%;
     font-family: "Bona Nova SC", serif;
 }
+.container-lyrics1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 98vh;
+    font-size: 210%;
+    font-family: "Ephesis", cursive;
+    color: #535050;
+    font-weight: bold;
+}

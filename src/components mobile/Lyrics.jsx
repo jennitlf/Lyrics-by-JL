@@ -30,7 +30,7 @@ const Lyrics = () => {
     }, [index, sortedData]);
 
     if (!lyrics) {
-        return <div className="container-lyrics">Carregando...</div>;
+        return <div className="container-lyrics1">Carregando...</div>;
     }
 
     

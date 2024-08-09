@@ -30,7 +30,7 @@ const LyricsDesktop = () => {
     }, [index, sortedData]);
 
     if (!lyrics) {
-        return <div className="container-lyrics">Carregando...</div>;
+        return <div className="container-lyrics-desktop">Carregando...</div>;
     }
 
     
