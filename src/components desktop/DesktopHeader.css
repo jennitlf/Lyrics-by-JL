@@ -44,19 +44,38 @@
 }
 
 .social-media-desktop{
- 
-  padding-left: 3%;
+  margin-left: 10%;
   height: 100%;
-  width: 15%;
+  width: 12%;
   display: flex;
   align-items: center;
-  justify-content:center ;
 }
 
-.social-media-desktop i {
-  font-size: 220%;
+
+.social-media-desktop a {
+  height: 100%;
+  width: 30%;
+  background-color: inherit;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content:flex-end;
+}
+.social-media-desktop button{
+  margin-left: 5%;
+  height: 100%;
+  width: 50%;
+  background-color: inherit;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content:flex-start;
 }
 
 #i1{
-  margin-right: 15%;
+  font-size: 270%;
+}
+
+#e1 {
+  font-size: 325%;
 }

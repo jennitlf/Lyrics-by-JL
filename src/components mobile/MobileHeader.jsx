@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './MobileHeader.css'; // Importar o CSS específico para o MobileHeader
+import './MobileHeader.css'; 
 import MenuOptions from './MenuOptions';
 import copy from 'clipboard-copy';
 
@@ -10,7 +10,7 @@ const MobileHeader = () => {
     setMenuActive((prevMenuActive) => !prevMenuActive);
   };
 
-  const meuEmail = 'thalitalimal143@gmail.com'; // Substitua pelo seu email
+  const meuEmail = 'thalitalimal143@gmail.com'; 
 
   const handleCopyEmail = () => {
     copy(meuEmail)
@@ -32,7 +32,7 @@ const MobileHeader = () => {
           </button>
         </div>
         <div className="social-media">
-          <a href="https://www.instagram.com/jennitlf/profilecard">
+          <a href="https://www.instagram.com/jennitlf" id='ancora-icone-instagram'>
             <i className="fa-brands fa-instagram"></i>
           </a>
           <button className="email-button" onClick={handleCopyEmail}>

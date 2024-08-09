@@ -34,17 +34,25 @@
 
 .social-media{
   margin-right: 1%;
-  height: 90%;
-  width: 25%;
+  height: 95%;
+  width: 30%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
 .social-media i{
   color: #5D4037;
   font-size: 200%;
 }
+.ancora-icone-instagram{
+  height: 100%;
+  width: 50%;
+}
 .email-button{
   font-size: 102%;
   height: 110%;
-  width: 100%;
+  width: 50%;
   background-color: inherit;
   border: none;
 }
