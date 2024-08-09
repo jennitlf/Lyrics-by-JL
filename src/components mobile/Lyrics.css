@@ -3,8 +3,9 @@
     margin-top: 14%;
     padding: 5% 7% 0 7%;
     background-image: url("../img/backlyrics1.jpeg");
-    background-size:contain;
-    background-position: center;
+    background-size:cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
 }
 
 .container-lyrics h2{
@@ -19,7 +20,7 @@
     font-size: 95%;
     font-family: "Bona Nova SC", serif;
 }
-.container-lyrics1{
+.container-lyrics-mobile{
     display: flex;
     align-items: center;
     justify-content: center;

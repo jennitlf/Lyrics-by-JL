@@ -1,26 +1,44 @@
-.container-lyrics1{
-    min-height: 90.2vh;
+.container-lyrics1 {
+    min-height: 84.5vh;
     margin-top: 0;
     padding: 4% 0 0 7%;
     background-image: url("../img/backlyrics1.jpeg");
-    background-size:contain;
-    background-position: center;
+    background-size: contain;
+    background-position: bottom;
+    display: flex;
+    flex-direction: column; 
+    justify-content: flex-start; 
 }
 
-.container-lyrics1 h2{
+.container-lyrics1-1{
+    display: flex;
+    flex-direction: row;
+}
+
+.container-lyrics1 h2 {
+    margin-left: 2%;
     color: #5D4037;
     font-family: "Bona Nova SC", serif;
 }
 
 .container-lyrics1 p {
     color: #5D4037;
-    margin-bottom: 1%;
-     /*line-height: 150%; */
-    font-size: 110%;
+    margin-bottom: 3%;
+    font-size: 150%;
     font-family: "Bona Nova SC", serif;
 }
 
-.container-lyrics-desktop{
+.left-column, .right-column {
+    width: 34%; 
+    padding: 0 2%; 
+    box-sizing: border-box;
+}
+
+.group {
+    margin-bottom: 20px; 
+}
+
+.container-lyrics-desktop {
     display: flex;
     align-items: center;
     justify-content: center;
