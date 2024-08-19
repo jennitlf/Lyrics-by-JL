@@ -1,13 +1,13 @@
 import React, { useEffect, useState, useMemo } from "react";
-import { Helmet } from "react-helmet";
+import { Link } from "react-router-dom";
 import "./Lyrics.css";
 import data from "../data/listMusics.json"; 
-import { useParams } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
 
 const Lyrics = () => {
     const { index } = useParams();
+    const navigate = useNavigate();
     const [lyrics, setLyrics] = useState(null);
-    const [composicao, setComposicao] = useState(null);
     const sortedData = useMemo(() => {
         return [...data].sort((a, b) => a.titulo.localeCompare(b.titulo));
     }, []);
@@ -29,27 +29,41 @@ const Lyrics = () => {
 
         
         setLyrics(paragrafos);
-        setComposicao(sortedData[parsedIndex]);
     }, [index, sortedData]);
 
     if (!lyrics) {
         return <div className="container-lyrics-mobile">Carregando...</div>;
     }
 
+    const more = () => {
+        const parsedIndex = parseInt(index);
+        let nextItem = parsedIndex + 1
+        if (nextItem >= data.length){
+            nextItem = data.length - 1
+        }
+        navigate(`/composicoes/${nextItem}`)
+    }
+
+    const less = () => {
+        const parsedIndex = parseInt(index);
+        let nextItem = parsedIndex - 1
+        if (nextItem <= 0){
+            nextItem = 0
+            console.log("ok")
+        }
+        navigate(`/composicoes/${nextItem}`)
+    }
     
 
     return (
         <div className="container-lyrics">
-            <Helmet>
-                <meta property="og:title" content={composicao.titulo} />
-                <meta property="og:description" content={composicao.descricao || "Descrição da composição"} />
-                <meta property="og:image" content={composicao.imagemURL || "URL padrão da imagem"} />
-                <meta property="og:url" content={`https://letrasbyjenniferlima.netlify.app/composicoes/${index}`} />
-                <meta property="og:type" content="website" />
-                <title>{composicao.titulo}</title>
-            </Helmet>
             <h2>{sortedData[parseInt(index)].titulo}</h2>
             {lyrics}
+            <div className="controls-mobile">   
+                <Link to={"/composicoes"} className="back-compositions-mobile"><button id="button-back-mobile"><i className="fa-solid fa-arrow-rotate-left"></i></button></Link>
+                <button onClick={less} ><i className="fa-solid fa-arrow-left"></i></button>
+                <button onClick={more} ><i className="fa-solid fa-arrow-right"></i></button>
+            </div>
         </div>
     );
 };

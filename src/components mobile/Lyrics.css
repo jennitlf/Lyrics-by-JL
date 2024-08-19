@@ -2,7 +2,7 @@
     min-height: 90.2vh;
     margin-top: 14%;
     padding: 5% 7% 0 7%;
-    background-image: url("../img/backlyrics1.jpeg");
+   
     background-size:cover;
     background-position: bottom;
     background-repeat: no-repeat;
@@ -29,4 +29,31 @@
     font-family: "Ephesis", cursive;
     color: #535050;
     font-weight: bold;
+}
+
+.controls-mobile{
+    height: 8vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.controls-mobile a{
+    height: 50%;
+    width: 10%;
+}
+.controls-mobile button{
+    height: 50%;
+    width: 10%;
+    border: none;
+    border-radius: 100%;
+    font-size: 110%;
+    color: #5D4037;
+    background-color:rgb(240, 151, 198);
+}
+.back-compositions-mobile{
+    height: 100%;
+}
+#button-back-mobile{
+    height: 100%;
+    width: 100%;
 }

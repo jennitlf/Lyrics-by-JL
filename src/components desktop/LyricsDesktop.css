@@ -1,8 +1,8 @@
 .container-lyrics1 {
     min-height: 84.5vh;
-    margin-top: 0;
+    margin-top: 2%;
     padding: 4% 0 0 7%;
-    background-image: url("../img/backlyrics1.jpeg");
+    background-repeat: no-repeat;
     background-size: contain;
     background-position: bottom;
     display: flex;
@@ -47,4 +47,29 @@
     font-family: "Ephesis", cursive;
     color: #535050;
     font-weight: bold;
+}
+
+.controls {
+    margin-top: 3%;
+    margin-left: 1%;
+    width: 15vw;
+    height: 7vh;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    align-items: center;
+}
+
+.controls button {
+    height: 100%;
+    width: 27%;
+    margin-right: 2%;
+    border: none;
+    font-size: 210%;
+    color: #5D4037;
+    background-color:rgb(240, 151, 198);
+    border-radius: 100%;
+}
+#button-back{
+    width: 100%;
 }
