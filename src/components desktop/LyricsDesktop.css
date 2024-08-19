@@ -70,6 +70,11 @@
     background-color:rgb(240, 151, 198);
     border-radius: 100%;
 }
+.back-compositions{
+    height: 100%;
+    width: 27%;
+}
 #button-back{
+    height: 100%;
     width: 100%;
 }

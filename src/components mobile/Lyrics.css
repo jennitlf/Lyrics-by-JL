@@ -49,9 +49,17 @@
     font-size: 110%;
     color: #5D4037;
     background-color:rgb(240, 151, 198);
+    margin-left: 1.5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .back-compositions-mobile{
     height: 100%;
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 #button-back-mobile{
     height: 100%;
