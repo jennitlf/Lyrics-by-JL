@@ -1,4 +1,5 @@
 import React, { useEffect, useState, useMemo } from "react";
+import { Helmet } from "react-helmet";
 import "./LyricsDesktop.css";
 import data from "../data/listMusics.json";
 import { useParams } from "react-router-dom";
@@ -6,6 +7,7 @@ import { useParams } from "react-router-dom";
 const LyricsDesktop = () => {
     const { index } = useParams();
     const [lyrics, setLyrics] = useState(null);
+    const [composicao, setComposicao] = useState(null);
     const sortedData = useMemo(() => {
         return [...data].sort((a, b) => a.titulo.localeCompare(b.titulo));
     }, []);
@@ -29,6 +31,7 @@ const LyricsDesktop = () => {
         }
 
         setLyrics(groupedParagrafos);
+        setComposicao(sortedData[parsedIndex]);
     }, [index, sortedData]);
 
     if (!lyrics) {
@@ -37,6 +40,14 @@ const LyricsDesktop = () => {
 
     return (
         <div className="container-lyrics1">
+            <Helmet>
+                <meta property="og:title" content={composicao.titulo} />
+                <meta property="og:description" content={composicao.descricao || "Descrição da composição"} />
+                <meta property="og:image" content={composicao.imagemURL || "URL padrão da imagem"} />
+                <meta property="og:url" content={`https://letrasbyjenniferlima.netlify.app/composicoes/${index}`} />
+                <meta property="og:type" content="website" />
+                <title>{composicao.titulo}</title>
+            </Helmet>
             <h2>{sortedData[parseInt(index)].titulo}</h2>
             <div className="container-lyrics1-1">
                 <div className="left-column">

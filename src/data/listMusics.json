@@ -1,99 +1,146 @@
 [
     {
         "titulo": "Brigas",
-        "letra": "Depois de tantas brigas, a gente chegou onde não deveria. \nO orgulho amaçou tudo que a gente sonhou,\n tudo que a gente sentia.\nMas não, não tem essa que você já esqueceu \nde como o meu corpo te aqueceu.\n\nE só de pensar que hoje você age assim, \ndói, dói demais em mim.\n\nSenta pra gente conversar, \nsenta pra gente se acertar\n\nDói, dói demais em mim.\nSenta pra gente conversar, \nsenta pra gente se acertar,\nNão vale a pena ser tão duro assim.\n\nSeria tão bom, se tudo voltasse a ser como era antes,\nantes de as palavras se cruzarem como flechas,\ncerteiras e prontas para ferir.\n\nOlha, olha no meu olho para mim ver que não,\n não tem essa que você já esqueceu\nDe como o meu corpo te aqueceu\né só de pensar que hoje você age assim\n\nDói, dói demais em mim\nSenta para gente conversar, senta para gente se acertar e vê se volta logo para mim."
+        "letra": "Depois de tantas brigas, a gente chegou onde não deveria. \nO orgulho amaçou tudo que a gente sonhou,\n tudo que a gente sentia.\nMas não, não tem essa que você já esqueceu \nde como o meu corpo te aqueceu.\n\nE só de pensar que hoje você age assim, \ndói, dói demais em mim.\n\nSenta pra gente conversar, \nsenta pra gente se acertar\n\nDói, dói demais em mim.\nSenta pra gente conversar, \nsenta pra gente se acertar,\nNão vale a pena ser tão duro assim.\n\nSeria tão bom, se tudo voltasse a ser como era antes,\nantes de as palavras se cruzarem como flechas,\ncerteiras e prontas para ferir.\n\nOlha, olha no meu olho para mim ver que não,\n não tem essa que você já esqueceu\nDe como o meu corpo te aqueceu\né só de pensar que hoje você age assim\n\nDói, dói demais em mim\nSenta para gente conversar, senta para gente se acertar e vê se volta logo para mim.",
+        "descricao":"Se tivéssemos tido maturidade para lidar com nossas diferenças, nosso amor seria um cristal lapidado",
+        "imagemURL": "../img/img21.jpeg"
     },
     {
         "titulo":"Só você",
-        "letra": "Queria com você saltar de paraquedas,\nassistir um filme ou andar de bicicleta.\nSe tivesse aqui e pudesse me ouvir,\ncom certeza riria sim.\n\nNão entendi aquela música que\nvocê pediu para mim ouvir,\nMas a melodia só me fez lembrar\ndas coisas bobas que entre nós eram\ntão legais, eram tão reais.\n\nMas na chuva não dá para ouvir,\nse não abrir o coração.\nCada gota uma lembrança,\nque não se desfaz apenas caindo no chão.\n\nSó você conseguia me convencer,\nde fazer aquilo que só você gostava,\nmas eu nem ligava, porque no final era com você"
-
+        "letra": "Queria com você saltar de paraquedas,\nassistir um filme ou andar de bicicleta.\nSe tivesse aqui e pudesse me ouvir,\ncom certeza riria sim.\n\nNão entendi aquela música que\nvocê pediu para mim ouvir,\nMas a melodia só me fez lembrar\ndas coisas bobas que entre nós eram\ntão legais, eram tão reais.\n\nMas na chuva não dá para ouvir,\nse não abrir o coração.\nCada gota uma lembrança,\nque não se desfaz apenas caindo no chão.\n\nSó você conseguia me convencer,\nde fazer aquilo que só você gostava,\nmas eu nem ligava, porque no final era com você",
+        "descricao": "Nunca existirá alguem como você. É uma pena que Deus tenha precisado dos servicços no céu",
+        "imagemURL": "../img/img10.jpeg"
     },
     {
         "titulo": "Talvez um vinho",
-        "letra": "Baby um dia você disse,\nque o seu coração era todinho meu,\nmas ainda não sei o que aconteceu,\npois você partiu e não sei onde te encontrar.\n\nSerá que eu devo realmente procurar?\nSe foi embora é porque não queria ficar.\nTalvez um remédio pra dormir fosse a solução,\ntalvez um vinho cairia bem.\n\nMas porque me machucar,\na resposta é tão óbvia que não dá pra ver.\nComo identificar um sorriso covarde\ndaqueles profundos, marcantes que batem.\n\nNão posso te ligar, não posso te procurar,\nseria te sufocar, logo eu\nque sempre prezei pela liberdade.\n\nSe foi embora assim,\nse é melhor assim, fique à vontade."
+        "letra": "Baby um dia você disse,\nque o seu coração era todinho meu,\nmas ainda não sei o que aconteceu,\npois você partiu e não sei onde te encontrar.\n\nSerá que eu devo realmente procurar?\nSe foi embora é porque não queria ficar.\nTalvez um remédio pra dormir fosse a solução,\ntalvez um vinho cairia bem.\n\nMas porque me machucar,\na resposta é tão óbvia que não dá pra ver.\nComo identificar um sorriso covarde\ndaqueles profundos, marcantes que batem.\n\nNão posso te ligar, não posso te procurar,\nseria te sufocar, logo eu\nque sempre prezei pela liberdade.\n\nSe foi embora assim,\nse é melhor assim, fique à vontade.",
+        "descricao": "Você ja viveu aquela luta interna entre aceitar a decisão de alguem, de partir, e tentar só mais uma vez em nome do amor?",
+        "imagemURL": "../img/img20.jpeg"
     },
     {
         "titulo": "As estrelas não mudam de lugar",
-        "letra": "Há aqueles amores que nos ensinam,\naqueles amores que nos machucam,\nhá aqueles que mesmo sendo amor,\nnão são pra se viver.\n\nOutro dia você me disse,\nque ir embora, era não querer ficar.\nE hoje eu entendi que não é bem assim\ne eu lhe prometi que te amaria tanto,\na ponto de escolher o que te faria bem.\n\nHoje eu tô partindo,\nmas te escreverei, pra não esquecer...\n\nQue as estrelas não mudam de lugar,\nnão param de brilhar e sempre estarão lá,\nmesmo quando não puder enxergar."
+        "letra": "Há aqueles amores que nos ensinam,\naqueles amores que nos machucam,\nhá aqueles que mesmo sendo amor,\nnão são pra se viver.\n\nOutro dia você me disse,\nque ir embora, era não querer ficar.\nE hoje eu entendi que não é bem assim\ne eu lhe prometi que te amaria tanto,\na ponto de escolher o que te faria bem.\n\nHoje eu tô partindo,\nmas te escreverei, pra não esquecer...\n\nQue as estrelas não mudam de lugar,\nnão param de brilhar e sempre estarão lá,\nmesmo quando não puder enxergar.",
+        "descricao": "Foi melhor, para nós dois, eu me afastar. Entretanto, sempre que olhar para o céu, lembre o quanto te amei, e foi em nome desse amor, que eu precisei te preserva, e consequentemente me afastar",
+        "imagemURL": "../img/img24.jpeg"
     },
     {
         "titulo": "Acima de qualquer amor",
-        "letra": "Amar é cada momento que você cuida de alguém,\nprincipalmente quando esse alguém é você.\n\nPara encontrar a paz não é preciso de muito.\n\nAqueles momentos que podem ser\nde amigos em um bar,\numa praia, dois filhos e o mar,\nOu uma garota livre de mentiras e a te amar.\n\nAcima de qualquer amor, tenha fé em si.\nFaça chover chuva de verão,\nfaça ter sol em meio ao inverno, e\ndeixe as pessoas se perguntarem como faz,\npra encontrar a paz, não é preciso de muito.\n\nNade, ande, corra, mas sempre tenha fé,\nque o que quiser, te fará feliz,\nindependente do ao redor."
+        "letra": "Amar é cada momento que você cuida de alguém,\nprincipalmente quando esse alguém é você.\n\nPara encontrar a paz não é preciso de muito.\n\nÁqueles momentos que podem ser\nde amigos em um bar,\numa praia, dois filhos e o mar,\nOu uma garota livre de mentiras e a te amar.\n\nAcima de qualquer amor, tenha fé em si.\nFaça chover chuva de verão,\nfaça ter sol em meio ao inverno, e\ndeixe as pessoas se perguntarem como faz.\nPara encontrar a paz, não é preciso de muito.\n\nNade, ande, corra, mas sempre tenha fé,\nque o que quiser, te fará feliz,\nindependente do ao redor.",
+        "descricao": "Seu amor por si mesmo, sempre será uma prioridade.",
+        "imagemURL": "../img/img3.jpeg"
     },
     {
         "titulo": "Só questão de tempo",
-        "letra": "Nos conhecíamos tanto,\nmas o tempo passou e o amor voou.\nChegou no final e foi assim,\neu sem você, você sem mim.\n\nEra só questão de tempo,\npra entender que nem tudo é questão de querer.\n\nBasta uma palavra pra tudo,\nexatamente, tudo desabar.\nQue nem as flores, eu também tinha tempo pra mudar.\n\nMas aqueles olhos tão perfeitos.\nQue seja livre, seja leve,\nseja sempre as melhores lembranças.\n\nPode até dizer que não,\nmas teus olhos verdes e sinceros,\nmudam o rumo do teu olhar."
+        "letra": "Nos conhecíamos tanto,\nmas o tempo passou e o amor voou.\nChegou no final e foi assim,\neu sem você, você sem mim.\n\nEra só questão de tempo,\npra entender que nem tudo é questão de querer.\n\nBasta uma palavra pra tudo,\nexatamente, tudo desabar.\nQue nem as flores, eu também tinha tempo pra mudar.\n\nMas aqueles olhos tão perfeitos.\nQue seja livre, seja leve,\nseja sempre as melhores lembranças.\n\nPode até dizer que não,\nmas teus olhos verdes e sinceros,\nmudam o rumo do teu olhar.",
+        "descricao": "Um amor verdadeiro não morre com o tempo, ele fica mais forte. Hoje percebo que você era passageiro, assim como suas ações e palavras.",
+        "imagemURL": "../img/img23.jpeg"
     },
     {
         "titulo": "Você é o precioso problema",
-        "letra": "Você entende até onde consegue.\nDe momentos em momentos percebi\nque já não vale a pena, compreender certos fatos.\nLiderar uma represa não é coisa pra os fracos,\nera o que dizia alguém que não sabia se ficava ou se ia.\n\nO caos que me trás calma,\né o mesmo que me destrói.\nE de poeira em poeira,\neu vou lidando com os ratos.\n\nVocê é o precioso o problema,\nvocê é o declínio dos meu esquemas.\nAndando na linha reta,\nmas me fazendo quebrar as regras.\nVocê é o precioso problema.\n\nQuando não tiver mais em quem acreditar\nVolta, chorando como uma criança perdida.\nComo alguém que se perdeu em seus\nprazeres mais profundos, mas volta."
+        "letra": "Você entende até onde consegue.\nDe momentos em momentos percebi\nque já não vale a pena, compreender certos fatos.\nLiderar uma represa não é coisa pra os fracos,\nera o que dizia alguém que não sabia se ficava ou se ia.\n\nO caos que me trás calma,\né o mesmo que me destrói.\nE de poeira em poeira,\neu vou lidando com os ratos.\n\nVocê é o precioso o problema,\nvocê é o declínio dos meu esquemas.\nAndando na linha reta,\nmas me fazendo quebrar as regras.\nVocê é o precioso problema.\n\nQuando não tiver mais em quem acreditar\nVolta, chorando como uma criança perdida.\nComo alguém que se perdeu em seus\nprazeres mais profundos, mas volta.",
+        "descricao": "Por que temos a sensação de que amores conturbados são os melhores?",
+        "imagemURL": "../img/img1.jpeg"
     },
     {
         "titulo": "Lição",
-        "letra": "Lembrei das razões que me deu pra ficar.\nEu acreditei em cada palavra, em cada olhar.\n\nSuas verdades eram mentiras que só eu pra acreditar.\nEnquanto você me engava, eu dormia tranquila achando que me amava.\n\nQuando você lembrar de mim, vai ser chorando por outro alguém, \nque vai fazer o que eu não fiz.\nNão vai viver tranquilo, vai ser infeliz.\n\nQuando você lembrar de mim, vai ser chorando por outro alguém, \nque vai fazer o que eu não fiz.\nNão vai viver tranquilo, vai ser infeliz.\n\nNão se joga fora o amo de quem só quis o seu bem.\nEu vou ficar em paz, a minha parte eu fiz,\na lição de te ensinar, a vida vai se encarregar."
+        "letra": "Lembrei das razões que me deu pra ficar.\nEu acreditei em cada palavra, em cada olhar.\n\nSuas verdades eram mentiras que só eu pra acreditar.\nEnquanto você me engava, eu dormia tranquila achando que me amava.\n\nQuando você lembrar de mim, vai ser chorando por outro alguém, \nque vai fazer o que eu não fiz.\nNão vai viver tranquilo, vai ser infeliz.\n\nQuando você lembrar de mim, vai ser chorando por outro alguém, \nque vai fazer o que eu não fiz.\nNão vai viver tranquilo, vai ser infeliz.\n\nNão se joga fora o amo de quem só quis o seu bem.\nEu vou ficar em paz, a minha parte eu fiz,\na lição de te ensinar, a vida vai se encarregar.",
+        "descricao": "Karma: Eu dou para a vida, a lição de te entregar tudo que você me entregou.",
+        "imagemURL": "../img/img16.jpeg"
     },
     {
         "titulo": "Não era sobre mim",
-        "letra": "Menino dos olhos escuros, você foi tudo pra mim \nmas adormeceu. Sem entender eu me fechei.\n\nQuatro meses seriam pouco pra ti convencer\nde não pular da sacada.\nEntão eu te dei o meu coração e sem perceber, você agarrou,\ne levou pra sempre.\n\nQuando você dizia que  queria fazer alguém feliz\nEu descobri..., que não era sobre mim,\n\nLembra das vezes que você, também,\nfazia as coisas de qualquer jeito.\nEu te parava falando que não,\nvocê só deitava sem dar atenção,\ne eu acordei, olhei o pro lado e não te vi."
+        "letra": "Menino dos olhos escuros, você foi tudo pra mim \nmas adormeceu. Sem entender eu me fechei.\n\nQuatro meses seriam pouco pra ti convencer\nde não pular da sacada.\nEntão eu te dei o meu coração e sem perceber, você agarrou,\ne levou pra sempre.\n\nQuando você dizia que  queria fazer alguém feliz\nEu descobri..., que não era sobre mim,\n\nLembra das vezes que você, também,\nfazia as coisas de qualquer jeito.\nEu te parava falando que não,\nvocê só deitava sem dar atenção,\ne eu acordei, olhei o pro lado e não te vi.",
+        "descricao": "Queria ter tido a chance de conhecer suas dores e te ajudar com elas, mas eu, também, era uma vítima dos percalços da vida.",
+        "imagemURL": "../img/img7.jpeg"
     },
     {
         "titulo": "Nada mudou",
-        "letra": "Desconcertada aqui falando do que você me causou,\nmas não se preocupa, a culpa não é sua, porque não, \nvocê não entrou aqui dentro e forçou nada, \neu simplesmente te deixei entrar.\n\nFalando em você, eu só lembrei daquele céu bonito,\nque você me ensinou a contemplar.\n \nDaquelas ruas tão vazias que, caminhando com você, \ntornaram-se, por segundos, uma passarela a dançar.\n\nO sinal abriu, o céu fechou, a vida é assim, nada mudou."
+        "letra": "Desconcertada aqui falando do que você me causou,\nmas não se preocupa, a culpa não é sua, porque não, \nvocê não entrou aqui dentro e forçou nada, \neu simplesmente te deixei entrar.\n\nFalando em você, eu só lembrei daquele céu bonito,\nque você me ensinou a contemplar.\n \nDaquelas ruas tão vazias que, caminhando com você, \ntornaram-se, por segundos, uma passarela a dançar.\n\nO sinal abriu, o céu fechou, a vida é assim, nada mudou.",
+        "descricao": "Não crie expectativas, não crie nada. Se nada der certo, deu tudo certo.",
+        "imagemURL": "../img/img22.jpeg"
     },
     {
         "titulo": "Pensa bem",
-        "letra": "Eu sei que não vale a pena acreditar, mas se disser que sim,\nsó mais uma vez vou ficar.\n\nOlha aí dentro e me diz, se tem alguma coisa pra acrescentar,\nsenão já tô indo embora pra não me ocupar.\n\nVocê já sabe que não me recuperei\ndas outras vaciladas eu só me acostumei.\nMas, isso faz você achar que, eu sou a porta que abre e fecha,\nquando a solidão você encontrar.\n\nPensa bem se vai querer fingir,\nalgo que não vai sustentar por muito tempo.\nE eu vou me cansar antes mesmo de notar,\nnão vou ti acompanhar nessa sua estrada indecisa.\n\nPega sua xícara e coloca o seu café, ele faz você pensar melhor.\nNão quero que se sinta sufocado. \nReciprocidade e amor, andam lado a lado."
+        "letra": "Eu sei que não vale a pena acreditar, mas se disser que sim,\nsó mais uma vez vou ficar.\n\nOlha aí dentro e me diz, se tem alguma coisa pra acrescentar,\nsenão já tô indo embora pra não me ocupar.\n\nVocê já sabe que não me recuperei\ndas outras vaciladas eu só me acostumei.\nMas, isso faz você achar que, eu sou a porta que abre e fecha,\nquando a solidão você encontrar.\n\nPensa bem se vai querer fingir,\nalgo que não vai sustentar por muito tempo.\nE eu vou me cansar antes mesmo de notar,\nnão vou ti acompanhar nessa sua estrada indecisa.\n\nPega sua xícara e coloca o seu café, ele faz você pensar melhor.\nNão quero que se sinta sufocado. \nReciprocidade e amor, andam lado a lado.",
+        "descricao": "Não podemos julgar quem ama. Quem ama, sempre enxergará beleza, mesmo onde não há.",
+        "imagemURL": "../img/img12.jpeg"
     },
     {
         "titulo": "Medo de assumir",
-        "letra": "Você vem me vê e encontra em mim, o que não encontrou nelas,\ne mesmo que volte, eu sei, que seu pensamento estará aqui, \nmas não entendo esse medo de assumir\n\nPorque ninguém te da as melhores noites,\nninguém ti dá as melhores loucuras.\n\nNão se engane com meus sentimentos,\nSão verdadeiros, mas eu não esperarei por muito tempo.\n\nOlha pros lados, quem te faz feliz ainda com o coração machucado.\nOlha pros lados, quem te leva ao céu mesmo sem a certeza \nque vai ficar do meu lado.\nOlha pro lados.\n\nOlha pros lados, quem te faz feliz ainda com o coração machucado.\nOlha pros lados, quem te leva ao céu mesmo sem a certeza \nque vai ficar do meu lado.\nAssume logo esse caso complicado."
+        "letra": "Você vem me vê e encontra em mim, o que não encontrou nelas,\ne mesmo que volte, eu sei, que seu pensamento estará aqui, \nmas não entendo esse medo de assumir\n\nPorque ninguém te da as melhores noites,\nninguém ti dá as melhores loucuras.\n\nNão se engane com meus sentimentos,\nSão verdadeiros, mas eu não esperarei por muito tempo.\n\nOlha pros lados, quem te faz feliz ainda com o coração machucado.\nOlha pros lados, quem te leva ao céu mesmo sem a certeza \nque vai ficar do meu lado.\nOlha pro lados.\n\nOlha pros lados, quem te faz feliz ainda com o coração machucado.\nOlha pros lados, quem te leva ao céu mesmo sem a certeza \nque vai ficar do meu lado.\nAssume logo esse caso complicado.",
+        "descricao": "Será que precisamos mesmo de alguém que tenhamos que mover o mundo para que ela entendar o tamanho do nosso amor?",
+        "imagemURL": "../img/img21.jpeg"
     },
     {
         "titulo": "Lado escuro",
-        "letra": "Você vem devagar, vem sem avisar.\nQuando não entendo me assusto,\ntendo não te atender, faço de tudo.\n\nVocê me liga, eu desligo, porque conheço seus motivos.\nE pra mim, nada do que fala doerá mais do que o fato de saber,\nque você sempre será o lado escuro do meu ser \n\nusa-me, abusa-me, como faz com todos.\nAs vezes sem hora pra partir, sempre sem hora pra chegar.\nSerá melhor quando sair, e talvez eu tenha tempo pra pensar.\n\nusa-me, abusa-me, como faz com todos.\nAs vezes sem hora pra partir, sempre sem hora pra chegar.\nSerá melhor quando sair, e talvez eu tenha tempo pra pensar\ne entender seu jogo, driblar suas mentiras e seus choros."
+        "letra": "Você vem devagar, vem sem avisar.\nQuando não entendo me assusto,\ntendo não te atender, faço de tudo.\n\nVocê me liga, eu desligo, porque conheço seus motivos.\nE pra mim, nada do que fala doerá mais do que o fato de saber,\nque você sempre será o lado escuro do meu ser \n\nusa-me, abusa-me, como faz com todos.\nAs vezes sem hora pra partir, sempre sem hora pra chegar.\nSerá melhor quando sair, e talvez eu tenha tempo pra pensar.\n\nusa-me, abusa-me, como faz com todos.\nAs vezes sem hora pra partir, sempre sem hora pra chegar.\nSerá melhor quando sair, e talvez eu tenha tempo pra pensar\ne entender seu jogo, driblar suas mentiras e seus choros.",
+        "descricao": "Não romantizo sua presença na minha vida.",
+        "imagemURL": "../img/img4.jpeg"
     },
     {
         "titulo": "Quando perceber já passou",
-        "letra": "Fala que me ama, que sente saudades \ne quer estar na minha cama,\nmas quantas vezes, esperei e você não veio.\n\nJá conheço suas palavras.\nEu te conheço muito bem.\nVocê está muito enganad0, não serei mais sua refém.\n\nAinda que seu beijo seja o que eu mais quero,\nainda que sua ausência é que me tira do sério, \no calor do seu corpo seja meu remédio e \neu saiba que isso tudo não é o certo.\n\nQuantas vezes eu te liguei e você não atendeu,\nvárias mensagens no WhatsApp e você nem visualizava.\nQuando perceber, já passou e vai vê que eu realmente te amava."
+        "letra": "Fala que me ama, que sente saudades \ne quer estar na minha cama,\nmas quantas vezes, esperei e você não veio.\n\nJá conheço suas palavras.\nEu te conheço muito bem.\nVocê está muito enganad0, não serei mais sua refém.\n\nAinda que seu beijo seja o que eu mais quero,\nainda que sua ausência é que me tira do sério, \no calor do seu corpo seja meu remédio e \neu saiba que isso tudo não é o certo.\n\nQuantas vezes eu te liguei e você não atendeu,\nvárias mensagens no WhatsApp e você nem visualizava.\nQuando perceber, já passou e vai vê que eu realmente te amava.",
+        "descricao": "ALgumas pessoas esperam perder para aprenderem a dar valor",
+        "imagemURL": "../img/img13.jpeg"
     },
     {
         "titulo": "Sentimento ruim",
-        "letra": "Passeando em pensamentos vazios.\nSou uma louca por não levar em consideração \nas vozes que dizem \"não vai ficar tudo bem\".\n\nMe diz você, eu acredito em dias melhores,\nmas me perdoe, sei que isso não é o seu forte.\nTe ofereço tudo que você não tem,\num abraço apertado, uma palavra de conforto,\numa piada te faria muito bem.\n\nSei que vai esperar chegar as sete horas pra falar,\nque já é hora de voltar, mas acho que não entendeu,\neu to aqui pra te ajudar.\n\nSe acalma, esse sentimento ruim logo passa"
+        "letra": "Passeando em pensamentos vazios.\nSou uma louca por não levar em consideração \nas vozes que dizem \"não vai ficar tudo bem\".\n\nMe diz você, eu acredito em dias melhores,\nmas me perdoe, sei que isso não é o seu forte.\nTe ofereço tudo que você não tem,\num abraço apertado, uma palavra de conforto,\numa piada te faria muito bem.\n\nSei que vai esperar chegar as sete horas pra falar,\nque já é hora de voltar, mas acho que não entendeu,\neu to aqui pra te ajudar.\n\nSe acalma, esse sentimento ruim logo passa",
+        "descricao": "Note os sinais que algum dá quando não está bem.",
+        "imagemURL": "../img/img15.jpeg"
       },
       {
         "titulo": "Seja livre",
-        "letra": "Alô, sei que não quer falar,\nmas to aqui para te pedir desculpas,\npor te fazer achar que\nera a única á te amar,\npor ser egoísta ao tentar te controlar,\npor nunca perguntar o que te fazia mal, nas noites de insônia,\npor não perguntar se alguma atitude iria te chatear.\n\nSó hoje vendo a sua partida , eu posso enxergar,\nque nunca te dei o melhor que eu poderia dar.\n\nVocê chorou e só hoje entendo essa dor.\nE não te culpo, sempre fui errada.\nTe peço perdão, mas não te peço pra voltar,\nessa uma tortura a qual não quero te causar.\n\nSeja livre e encontre um lugar melhor pra pousar."
+        "letra": "Alô, sei que não quer falar,\nmas to aqui para te pedir desculpas,\npor te fazer achar que\nera a única á te amar,\npor ser egoísta ao tentar te controlar,\npor nunca perguntar o que te fazia mal, nas noites de insônia,\npor não perguntar se alguma atitude iria te chatear.\n\nSó hoje vendo a sua partida , eu posso enxergar,\nque nunca te dei o melhor que eu poderia dar.\n\nVocê chorou e só hoje entendo essa dor.\nE não te culpo, sempre fui errada.\nTe peço perdão, mas não te peço pra voltar,\nessa uma tortura a qual não quero te causar.\n\nSeja livre e encontre um lugar melhor pra pousar.",
+        "descricao": "Às vezes precisamos aceitar que também erramos, também fazemos mal à outras pessoas.",
+        "imagemURL": "../img/img3.jpeg"
       },
       {
         "titulo": "Salmo 143:10",
-        "letra": "Antes que eu te diga o que quero, tu já sabes o que é.\nE se não for da tua vontade, tira do meu coração.\n\nEnsina-me a querer o que tu queres,\na ter sabedoria, pra escolher qual melhor caminho,\naquele que me leva até a ti.\n\nQuero sempre estar diante do que tem de melhor para mim,\ne caso não seja o melhor, segundo o que penso,\nque não me aflita, pois nasci pra te amar, te adorar e agradecer por tudo.\n\nE tudo que conquistei foi a nossa intimidade.\nE tudo que aprendi, foi não viver sem ti.\nE tudo que eu quero, agora, é você presente em cada passo,\nna subida das montanhas e no trono da vitória.\n\nPois, ainda que tudo eu conquiste, sem ti não tenho nada."
+        "letra": "Antes que eu te diga o que quero, tu já sabes o que é.\nE se não for da tua vontade, tira do meu coração.\n\nEnsina-me a querer o que tu queres,\na ter sabedoria, pra escolher qual melhor caminho,\naquele que me leva até a ti.\n\nQuero sempre estar diante do que tem de melhor para mim,\ne caso não seja o melhor, segundo o que penso,\nque não me aflita, pois nasci pra te amar, te adorar e agradecer por tudo.\n\nE tudo que conquistei foi a nossa intimidade.\nE tudo que aprendi, foi não viver sem ti.\nE tudo que eu quero, agora, é você presente em cada passo,\nna subida das montanhas e no trono da vitória.\n\nPois, ainda que tudo eu conquiste, sem ti não tenho nada.",
+        "descricao": "Um toque do verdadeiro amor.",
+        "imagemURL": "../img/img7.jpeg"
       },
       {
         "titulo": "Ele vai se casar",
-        "letra": "Nunca imaginei estar chorando, numa mesa de bar desabafando, com alguém que acabei de conhecer.\n\nPor favor, não me leve a mal, mas escuta o que tenho pra falar, não se preocupe, tenho dinheiro,\n vou pagar.\n\nHoje ele vai se casar e não fez nem questão de avisar.\n\nEstou desesperada, tentando acalmar o coração,\nque não  tem culpa de amar alguém \nque apareceu, com um lindo sorriso,\ne me ganhou sem ter a intenção de ficar.\n\nAmigo me diz, que vai ficar tudo bem.\nEle errou, mas está com ela, e eu sem ninguém"
+        "letra": "Nunca imaginei estar chorando, numa mesa de bar desabafando, com alguém que acabei de conhecer.\n\nPor favor, não me leve a mal, mas escuta o que tenho pra falar, não se preocupe, tenho dinheiro,\n vou pagar.\n\nHoje ele vai se casar e não fez nem questão de avisar.\n\nEstou desesperada, tentando acalmar o coração,\nque não  tem culpa de amar alguém \nque apareceu, com um lindo sorriso,\ne me ganhou sem ter a intenção de ficar.\n\nAmigo me diz, que vai ficar tudo bem.\nEle errou, mas está com ela, e eu sem ninguém",
+        "descricao": "Dói perder algo, mesmo que nunca tenha te pertencido.",
+        "imagemURL": "../img/img6.jpeg"
       },
       {
         "titulo": "Chamas de um vulcão",
-        "letra": "Somos um só, em uma só direção.\nOs nossos beijos são as chamas de um vulcão.\n\nCada toque é um mundo novo á se explorar.\nAmo essa tatuagem que fica evidente ao virar,\no destino fez você fazer, só pra eu admirar.\n\nVem, vamos aquecer o mundo com o calor do nosso amor,\ne todos vão achar que o sol nasceu e é hora acordar.\n\nSeu sorrido aviva em mim a alegria viver, \num sentindo novo. Meu real prazer. \n\nNão procuro o que não tenho, porque tenho tudo, \neu tenho você."
+        "letra": "Somos um só, em uma só direção.\nOs nossos beijos são as chamas de um vulcão.\n\nCada toque é um mundo novo á se explorar.\nAmo essa tatuagem que fica evidente ao virar,\no destino fez você fazer, só pra eu admirar.\n\nVem, vamos aquecer o mundo com o calor do nosso amor,\ne todos vão achar que o sol nasceu e é hora acordar.\n\nSeu sorrido aviva em mim a alegria viver, \num sentindo novo. Meu real prazer. \n\nNão procuro o que não tenho, porque tenho tudo, \neu tenho você.",
+        "descricao": "É incrível a sensação que você me causa.",
+        "imagemURL": "../img/img10.jpeg"
       },
       {
         "titulo": "Eu já aprendi",
-        "letra": "Te encontrei aqui sozinho, como quem perdeu o rumo do caminho.\nE assustado veio me falar, que sentiu minha falta e tentou me procurar\n\nDe todas eu sempre fui sua última opção.\nAchou que eu viria, quando me ligasse,\nsozinho, chorando no balcão.\n\nMas eu já aprendi. \nContra seu veneno, eu tenho o antídoto.\nNo meu corpo não toca mais,\ne as lembranças já tanto faz"
+        "letra": "Te encontrei aqui sozinho, como quem perdeu o rumo do caminho.\nE assustado veio me falar, que sentiu minha falta e tentou me procurar\n\nDe todas eu sempre fui sua última opção.\nAchou que eu viria, quando me ligasse,\nsozinho, chorando no balcão.\n\nMas eu já aprendi. \nContra seu veneno, eu tenho o antídoto.\nNo meu corpo não toca mais,\ne as lembranças já tanto faz",
+        "descricao": "Me libertei, encontrei o amor próprio.",
+        "imagemURL": "../img/img14.jpeg"
       },
       {
         "titulo":"Não vivo mais sem você",
-        "letra": "Encontro-te onde ninguém pode nos ver.\nO seu semblante diz muito mais, do que posso entender.\n\nA chuva forte que não passa, esse vento me arrasta pra perto de você.\n\nsuaves e macias são as suas mãos,\nestenda-as e toque em meu coração.\n\nSe o sol não nascer, não tenho medo, pois estarei com você. \nE o calor de nossos corpos, em nossa intimidade,\nlogo se transformam em uma só verdade. \n\nSe não te procuro, não sinto a calma, \ne o ar logo me falta, e de novo não vivo mais sem você."
+        "letra": "Encontro-te onde ninguém pode nos ver.\nO seu semblante diz muito mais, do que posso entender.\n\nA chuva forte que não passa, esse vento me arrasta pra perto de você.\n\nsuaves e macias são as suas mãos,\nestenda-as e toque em meu coração.\n\nSe o sol não nascer, não tenho medo, pois estarei com você. \nE o calor de nossos corpos, em nossa intimidade,\nlogo se transformam em uma só verdade. \n\nSe não te procuro, não sinto a calma, \ne o ar logo me falta, e de novo não vivo mais sem você.",
+        "descricao": "Seria um amor real ou um amor cósmico?",
+        "imagemURL": "../img/img18.jpeg"
       },
       {
         "titulo": "A pior da covardias",
-        "letra": "O meu eu nunca me deixou falar,\no que me causava ao tentar me aproximar.\nUma tremedeira, um frio na barriga.\nEu sabia que era amor só de olhar.\n\nMas seu sorriso marcante , seu perfeito semblante.\nEu não podia te falar. Era loucura, nunca me disse mais\nque um simples \"oi\".\n\nO tempo passou, e eu nunca te falei do meu amor.\nHoje soube que você noivou, e esse sofrimento merecido é meu castigo \n\nPorque a pior das covardias é não declarar o que sente a quem se ama. Agora viva com a culpa de perder o que nem começou,\nAgora viva com a culpa de perder o seu amor."
+        "letra": "O meu eu nunca me deixou falar,\no que me causava ao tentar me aproximar.\nUma tremedeira, um frio na barriga.\nEu sabia que era amor só de olhar.\n\nMas seu sorriso marcante , seu perfeito semblante.\nEu não podia te falar. Era loucura, nunca me disse mais\nque um simples \"oi\".\n\nO tempo passou, e eu nunca te falei do meu amor.\nHoje soube que você noivou, e esse sofrimento merecido é meu castigo \n\nPorque a pior das covardias é não declarar o que sente a quem se ama. Agora viva com a culpa de perder o que nem começou,\nAgora viva com a culpa de perder o seu amor.",
+        "descricao": "Esse sofrimento é meu cartigo merecido.",
+        "imagemURL": "../img/img4.jpeg"
       },
       {
         "titulo": "Fomos felizes",
-        "letra": "Não entendo esse seu jeito de fazer as coisas,\nmas compreendo que o meu não faz sentido pra você.\n\nSe faz necessário quando me encontra frágil,\nprocurando uma distração, ainda que eu saiba que no outro dia\nvou me arrepender, mesmo já estando em seu colchão.\n\nE no seu coração mora mais um eu, e você sabe bem, sabe bem,\nque a vida não leva o tempo que precisa para apagar \no que levou dias pra acontecer.\n\nJá que esse tipo de amor, não é pra se viver,\nvai embora, ciente que em nossos pensamentos, \nfomos felizes até morrer."
+        "letra": "Não entendo esse seu jeito de fazer as coisas,\nmas compreendo que o meu não faz sentido pra você.\n\nSe faz necessário quando me encontra frágil,\nprocurando uma distração, ainda que eu saiba que no outro dia\nvou me arrepender, mesmo já estando em seu colchão.\n\nE no seu coração mora mais um eu, e você sabe bem, sabe bem,\nque a vida não leva o tempo que precisa para apagar \no que levou dias pra acontecer.\n\nJá que esse tipo de amor, não é pra se viver,\nvai embora, ciente que em nossos pensamentos, \nfomos felizes até morrer.",
+        "descricao": "Por que é tão bom, mas não pode ser vivido?",
+        "imagemURL": "../img/img19.jpeg"
       },
       {
         "titulo": "Vazio coração",
-        "letra": "Se todas as manhãs não tivessem o sol,\nse todas as noite não tivessem a lua,\ntudo que falou faria sentido pra você ?\n\nMe nega a chance de dizer, o que está engatado aqui no peito.\nÉ a sua cara, fugir daquilo que não te convém,\ne todas outras sentiram tudo isso, eu sei.\n\nMas como tudo que se planta, colhe.\nNão insistirei em te mostrar, que quando  é pra se colher \nna vida não existe sorte. \n\nQuando chegar a noite, \nvai sentir o amargo frio da solidão,\ne vai se dar conta, que varias bocas\nnão preenchem esse seu vazio coração."
+        "letra": "Se todas as manhãs não tivessem o sol,\nse todas as noite não tivessem a lua,\ntudo que falou faria sentido pra você ?\n\nMe nega a chance de dizer, o que está engatado aqui no peito.\nÉ a sua cara, fugir daquilo que não te convém,\ne todas outras sentiram tudo isso, eu sei.\n\nMas como tudo que se planta, colhe.\nNão insistirei em te mostrar, que quando  é pra se colher \nna vida não existe sorte. \n\nQuando chegar a noite, \nvai sentir o amargo frio da solidão,\ne vai se dar conta, que varias bocas\nnão preenchem esse seu vazio coração.",
+        "descricao": "A irresponsabilidade afetiva gera um karma doloroso e inevitável.",
+        "imagemURL": "../img/img17.jpeg"
       }
 ]
