@@ -12,7 +12,7 @@ const CompositionsDesktop = () => {
           <ul>
             {sortedData.map((item, index) => (
               <li className="unit-li" key={index}>
-                <Link to={`/composicoes/${index}`} className="link2-desk">{item.titulo}</Link>
+                <Link to={`/composicoes/${index}`} className="link2-desk">{`${index + 1}. ${item.titulo}`}</Link>
               </li>
             ))}
           </ul>
