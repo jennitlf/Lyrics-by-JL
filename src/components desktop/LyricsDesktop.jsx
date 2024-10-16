@@ -26,8 +26,8 @@ const LyricsDesktop = () => {
 
         
         const groupedParagrafos = [];
-        for (let i = 0; i < paragrafos.length; i += 4) {
-            groupedParagrafos.push(paragrafos.slice(i, i + 4));
+        for (let i = 0; i < paragrafos.length; i += 5) {
+            groupedParagrafos.push(paragrafos.slice(i, i + 5));
         }
 
         setLyrics(groupedParagrafos);
