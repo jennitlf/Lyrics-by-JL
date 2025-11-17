@@ -26,7 +26,7 @@ const DesktopHeader = () => {
     </div>
     <ul className="nav-desktop">
       <li > <Link to={`/home`}>Home</Link> </li>
-      <li><Link to={`/composicoes`} >Composições</Link></li>
+      <li><Link to={`/composicoes`} >Portfólio</Link></li>
     </ul>
     <div className='social-media-desktop'>
       <a href="https://www.instagram.com/jennitlf" className='ancora-instagram-desktop'> <i className="fa-brands fa-instagram" id='i1' ></i> </a>

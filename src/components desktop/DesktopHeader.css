@@ -19,7 +19,7 @@
   justify-content: center;
 }
 .img-profile img{
-  width: 35%;
+  width: 25%;
   height: auto;
   border-radius: 100%;
 }
@@ -74,9 +74,9 @@
 }
 
 #i1{
-  font-size: 270%;
+  font-size: 230%;
 }
 
 #e1 {
-  font-size: 325%;
+  font-size: 290%;
 }

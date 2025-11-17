@@ -48,7 +48,7 @@ const MenuOptions = ({ menuActive, setMenuActive }) => {
                 <img src={img} alt="foto de jennifer" />
             </div>
             <ul className="options-list">
-                {['Home', 'Composições'].map((item, index) => (
+                {['Home', 'Portfólio'].map((item, index) => (
                     <li key={index} className={activeItem === index ? 'clicked' : ''} onClick={() => handleItemClick(index)}>
                         <Link to={`/${removeAccents(item)}`} className="link1">{item}</Link>
                     </li>
